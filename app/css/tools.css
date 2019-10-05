@@ -1,0 +1,21 @@
+.color-blue {
+  color: #3E99ED; }
+
+.color-gray {
+  color: #898B8C; }
+
+.color-green {
+  color: #48B0A2; }
+
+.bg-beige {
+  background: #CCC8A2; }
+
+.bg-beige-light {
+  background: #EAE9D6; }
+
+.hover-opacity {
+  -webkit-transition: .5s;
+  -o-transition: .5s;
+  transition: .5s; }
+  .hover-opacity:hover {
+    opacity: 0.8; }
